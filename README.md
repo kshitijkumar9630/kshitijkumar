@@ -1,3 +1,3 @@
-Html Css JavaScript JQuery
+#Kshitij Kumar
 Portfolio website
 https://kshitijkumar9630.github.io/kshitijkumar/
